@@ -17,7 +17,7 @@ const RefundPolicy = () => {
 
    <Header/>
 
-   <div className="bg-gray-50 py-12 px-4 sm:px-6 lg:px-8 pt-30">
+   <div className="bg-gray-50 py-12 px-4 sm:px-6 lg:px-8 pt-24">
      <div className="max-w-4xl mx-auto">
 
        {/* Header */}
@@ -55,7 +55,7 @@ const RefundPolicy = () => {
            For any questions regarding refunds, please contact our support team at:
          </p>
          <p className="text-sm font-medium text-gray-700">
-           <a className="hover:underline" href="mailto:support@Probookeepers.com">support@Probookeepers.com</a> |{' '}
+           <a className="hover:underline" href="mailto:support@probookeeper.com">support@probookeeper.com</a> |{' '}
            <a className="hover:underline" href="tel:+18888710037">+1-888-871-0037</a>
          </p>
          <p className="text-xs text-gray-400 italic mt-4">

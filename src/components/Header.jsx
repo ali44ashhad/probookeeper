@@ -12,13 +12,13 @@ const Header = () => {
         <div className="text-left">
           <Link to='/'>
             <h2 className="text-white text-lg sm:text-2xl md:text-3xl lg:text-3xl font-semibold">
-           Probookeepers
+           probookeeper
           </h2>
           </Link>
         </div>
 
        {/* Phone Number - Right Side */}
-        <a href="tel:+18888710037" className="flex items-center gap-2 text-right" aria-label="Call Probookeepers at 1-888-871-0037">
+        <a href="tel:+18888710037" className="flex items-center gap-2 text-right" aria-label="Call probookeeper at 1-888-871-0037">
           <FaPhoneAlt className="text-white text-base sm:text-xl md:text-2xl" />
 
           <span

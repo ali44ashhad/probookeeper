@@ -14,15 +14,13 @@ import ContactUsForm from './pages/ContactUsForm'
 import Authenticity from './pages/Authenticity'
 import Terms from './pages/Terms'
 
-import './App.css'
-
 function HomePage() {
   return (
-    <section id="center">
+    <div className="min-h-screen w-full overflow-x-hidden">
       <Header />
       <Home />
       <Footer />
-    </section>
+    </div>
   )
 }
 

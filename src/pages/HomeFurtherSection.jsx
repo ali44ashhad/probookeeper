@@ -37,7 +37,7 @@ const HomeFurtherSection = () => {
             // This entire block replaces the separate <PlanCard /> component
             <div 
               key={index} 
-              className="flex flex-col border border-gray-200 rounded-lg shadow-lg overflow-hidden bg-white **h-auto**"
+              className="flex flex-col border border-gray-200 rounded-lg shadow-lg overflow-hidden bg-white h-auto"
             >
               
               {/* Plan Header */}
@@ -87,7 +87,7 @@ const HomeFurtherSection = () => {
    <div className="w-80 h-80 sm:w-96 sm:h-96 border-none rounded-full overflow-hidden shadow-2xl border-4">
   <img 
     src={images.quickbooksImage} 
-    alt="Probookeepers Team" 
+    alt="probookeeper Team" 
     className="w-full h-full object-cover" 
   />
 </div>

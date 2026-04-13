@@ -16,15 +16,15 @@ const Faq = () => {
   return (
     <>
       <Helmet>
-                <title>Faq | Probookeepers</title>
+                <title>Faq | probookeeper</title>
                 <meta
                     name="description"
-                    content="FAQ about Probookeepers services."
+                    content="FAQ about probookeeper services."
                 />
             </Helmet>
     <Header/>
       <div>
-           <section className="py-30 px-4 md:px-8 lg:px-12">
+           <section className="pt-24 pb-16 px-4 md:px-8 lg:px-12">
         <div className="max-w-6xl mx-auto">
           {/* FAQ Title */}
           <h2 className="text-3xl font-bold text-gray-900 mb-8 md:mb-12">

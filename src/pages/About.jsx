@@ -18,7 +18,7 @@ const About = () => {
       <Header />
 
       <section className="bg-white">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-30 sm:py-12 lg:py-24">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-24 pb-16 sm:py-12 lg:py-24">
           <h2 className="text-2xl sm:text-3xl lg:text-4xl font-sans font-bold text-gray-800 mb-6 sm:mb-8">
             About Us
           </h2>

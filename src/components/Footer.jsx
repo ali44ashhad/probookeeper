@@ -53,9 +53,9 @@ const Footer = ({ paymentImg, social = {}, className = "" }) => {
             <div className="flex items-start gap-4">
              
               <div>
-                <h3 className="text-2xl font-semibold text-green-600">Probookeepers</h3>
+                <h3 className="text-2xl font-semibold text-green-600">probookeeper</h3>
                 <p className="text-sm text-gray-600 mt-2">
-                  <strong>Disclaimer:</strong> Probookeepers is an independent accounting firm &amp; Certified QuickBooks Pro-Advisor.
+                  <strong>Disclaimer:</strong> probookeeper is an independent accounting firm &amp; Certified QuickBooks Pro-Advisor.
                    Licenses are issued by Intuit. We are not Intuit Inc.
                 </p> 
 
@@ -81,7 +81,7 @@ const Footer = ({ paymentImg, social = {}, className = "" }) => {
           </div>
             <h4 className="text-md font-semibold mb-3">Contact Us</h4>
             <p className="text-sm text-gray-700 mb-1">Phone: <a className="font-medium text-gray-900" href="tel:+18888710037">1-888-871-0037</a></p>
-            <p className="text-sm text-gray-700 mb-3">Email: <a className="text-gray-900" href="mailto:info@Probookeepers.com">info@Probookeepers.com</a></p>
+            <p className="text-sm text-gray-700 mb-3">Email: <a className="text-gray-900" href="mailto:info@probookeeper.com">info@probookeeper.com</a></p>
 
             <div className="flex items-center gap-3 mb-4">
               <a href={fb} aria-label="Facebook" className="p-2 rounded-md bg-gray-50 hover:bg-green-50">
@@ -104,7 +104,7 @@ const Footer = ({ paymentImg, social = {}, className = "" }) => {
         {/* Bottom row: legal / back-to-top */}
         <div className="mt-8 flex flex-col sm:flex-row items-center justify-between gap-4 border-t pt-4">
           <div className="text-sm text-gray-600">
-            © {new Date().getFullYear()} Probookeepers. All rights reserved.
+            © {new Date().getFullYear()} probookeeper. All rights reserved.
            
           </div>
 
@@ -117,7 +117,7 @@ const Footer = ({ paymentImg, social = {}, className = "" }) => {
               Back to top
             </button>
 
-            <div className="text-sm text-gray-500">Powered by Probookeepers</div>
+            <div className="text-sm text-gray-500">Powered by probookeeper</div>
           </div>
         </div>
       </div>

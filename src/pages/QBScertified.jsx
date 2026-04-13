@@ -13,10 +13,10 @@ const QBScertified = () => {
   return (
     <>
       <Helmet>
-                    <title>QBS certified | Probookeepers</title>
+                    <title>QBS certified | probookeeper</title>
                     <meta
                         name="description"
-                        content="Certified Probookeepers for business software assistance."
+                        content="Certified probookeeper for business software assistance."
                     />
                 </Helmet>
     <Header/>
@@ -24,7 +24,7 @@ const QBScertified = () => {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-6 font-sans">
 
         {/* SECTION 1 */}
-        <section className="flex flex-col lg:flex-row items-center justify-between gap-6 mb-8 lg:mb-12 pt-16 sm:pt-30">
+        <section className="flex flex-col lg:flex-row items-center justify-between gap-6 mb-8 lg:mb-12 pt-24">
           <div className="w-full lg:w-1/2 flex justify-center">
             <img
               src={images.QBScertifiedHeroImage}

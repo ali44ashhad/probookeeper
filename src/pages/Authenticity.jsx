@@ -10,16 +10,16 @@ const Authenticity = () => {
 
     <Helmet>
          <link rel="icon" type="image/svg+xml" href="react.svg" />
-                <title>Authenticity | Probookeepers</title>
+                <title>Authenticity | probookeeper</title>
                 <meta
                     name="description"
-                    content="Authenticity of Probookeepers."
+                    content="Authenticity of probookeeper."
                 />
             </Helmet>
    <Header/>
      <div>
 
-        <div className="max-w-7xl mx-auto p-8 pt-30">
+        <div className="max-w-7xl mx-auto p-8 pt-24">
       {/* Main Heading */}
       <h2 className="text-3xl font-bold mb-10 text-gray-800">
        Authenticity
@@ -53,9 +53,9 @@ const Authenticity = () => {
         </p>
         <p className="text-gray-600 leading-relaxed">
           You can also request more information by emailing us at <a 
-          href="mailto:info@Probookeepers.com" 
+          href="mailto:info@probookeeper.com" 
           className="text-blue-600 hover:text-blue-800 underline transition duration-150 ease-in-out"
-          > info@Probookeepers.com</a>
+          > info@probookeeper.com</a>
         </p>
       </div>
     </div>

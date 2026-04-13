@@ -8,7 +8,7 @@ const PrivacyPolicy = () => {
   return (
    <>
      <Helmet>
-        <title>Privacy Policy | Probookeepers</title>
+        <title>Privacy Policy | probookeeper</title>
         <meta
           name="description"
           content="Learn how Probook protects your data, ensures privacy, and handles your information securely."
@@ -68,7 +68,7 @@ const PrivacyPolicy = () => {
             <p className="text-gray-500 text-sm">
               If you have any questions about this Privacy Policy or how your data is handled, please contact our team at:
               <br/>
-              <a className="font-medium text-gray-700 hover:underline" href="mailto:support@Probookeepers.com">support@Probookeepers.com</a> or{' '}
+              <a className="font-medium text-gray-700 hover:underline" href="mailto:support@probookeeper.com">support@probookeeper.com</a> or{' '}
               <a className="font-medium text-gray-700 hover:underline" href="tel:+18888710037">+1-888-871-0037</a>
             </p>
           </div>
