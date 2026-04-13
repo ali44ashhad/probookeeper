@@ -48,12 +48,12 @@ const QBScertified = () => {
               <li>Seamless Data Import, Export, & Synchronization</li>
             </ul>
 
-            <Link
-              to="/contact-us"
+            <a
+              href="tel:+18888710037"
               className={`inline-block py-2 px-6 text-white font-bold rounded-md transition duration-300 shadow ${primaryGreen}`}
             >
               Call: 1-888-871-0037
-            </Link>
+            </a>
           </div>
         </section>
 
@@ -72,12 +72,12 @@ const QBScertified = () => {
               <strong> Excellence in Technical Services Award</strong>.
             </p>
 
-            <Link
-              to="/contact-us"
+            <a
+              href="tel:+18888710037"
               className={`inline-block py-2 px-6 text-white font-bold rounded-md transition duration-300 shadow ${primaryGreen}`}
             >
               Call: 1-888-871-0037
-            </Link>
+            </a>
           </div>
 
           <div className="w-full lg:w-1/3 flex justify-center order-1 lg:order-2">
@@ -106,13 +106,13 @@ const QBScertified = () => {
             <h2 className="text-xl sm:text-2xl font-semibold mb-1">Facing Technical Glitches?</h2>
             <h3 className="text-lg sm:text-xl font-light mb-4">Get Rapid Professional Support Now</h3>
 
-            <Link
-              href="/contact-us"
+            <a
+              href="tel:+18888710037"
               className="inline-flex items-center justify-center px-6 py-2 text-base font-bold rounded-full shadow bg-green-700 hover:bg-green-800 transition duration-300 ring-4 ring-green-600/40"
             >
               <Phone className="w-4 h-4 mr-2" />
               Call: 1-888-871-0037
-            </Link>
+            </a>
           </div>
         </section>
 
@@ -142,12 +142,12 @@ const QBScertified = () => {
                   and integration support for businesses of all sizes.
                 </p>
 
-                <Link
-                  to="/contact-us"
+                <a
+                  href="tel:+18888710037"
                   className="inline-flex items-center justify-center w-full sm:w-auto px-5 py-2 text-base font-bold rounded-full shadow bg-green-700 hover:bg-green-800 transition duration-300"
                 >
                   Call: 1-888-871-0037
-                </Link>
+                </a>
               </div>
             </div>
           </div>
@@ -187,12 +187,12 @@ const QBScertified = () => {
           </div>
 
           <div className="mt-8 flex justify-center">
-            <Link
-              to="/contact-us"
+            <a
+              href="tel:+18888710037"
               className="inline-block px-6 py-3 text-base font-semibold text-white bg-emerald-700 hover:bg-emerald-800 rounded-lg shadow transition duration-300"
             >
               Call: 1-888-871-0037
-            </Link>
+            </a>
           </div>
         </div>
       </div>
@@ -236,12 +236,12 @@ const QBScertified = () => {
           </div>
 
           <div className="mt-8 flex justify-center">
-            <Link
-              to="/contact-us"
+            <a
+              href="tel:+18888710037"
               className="inline-block px-6 py-3 text-base font-semibold text-white bg-emerald-700 hover:bg-emerald-800 rounded-lg shadow transition duration-300"
             >
               Call: 1-888-871-0037
-            </Link>
+            </a>
           </div>
         </div>
       </div>

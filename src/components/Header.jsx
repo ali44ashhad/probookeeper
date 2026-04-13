@@ -18,24 +18,24 @@ const Header = () => {
         </div>
 
        {/* Phone Number - Right Side */}
-<div className="flex items-center gap-2 text-right">
-  <FaPhoneAlt className="text-white text-base sm:text-xl md:text-2xl" />
+        <a href="tel:+18888710037" className="flex items-center gap-2 text-right" aria-label="Call Probookeepers at 1-888-871-0037">
+          <FaPhoneAlt className="text-white text-base sm:text-xl md:text-2xl" />
 
-  <h1
-    className="
-      text-white
-      text-lg          
-      sm:text-2xl      
-      md:text-3xl      
-      lg:text-2xl      
-      font-semibold
-      leading-none
-      select-none
-    "
-  >
-    1-888-871-0037
-  </h1>
-</div>
+          <span
+            className="
+              text-white
+              text-lg
+              sm:text-2xl
+              md:text-3xl
+              lg:text-2xl
+              font-semibold
+              leading-none
+              select-none
+            "
+          >
+            1-888-871-0037
+          </span>
+        </a>
 
       </div>
     </nav>

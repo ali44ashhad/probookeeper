@@ -68,7 +68,8 @@ const PrivacyPolicy = () => {
             <p className="text-gray-500 text-sm">
               If you have any questions about this Privacy Policy or how your data is handled, please contact our team at:
               <br/>
-              <span className="font-medium text-gray-700">support@Probookeepers.com</span> or <span className="font-medium text-gray-700">+1-888-871-0037</span>
+              <a className="font-medium text-gray-700 hover:underline" href="mailto:support@Probookeepers.com">support@Probookeepers.com</a> or{' '}
+              <a className="font-medium text-gray-700 hover:underline" href="tel:+18888710037">+1-888-871-0037</a>
             </p>
           </div>
 

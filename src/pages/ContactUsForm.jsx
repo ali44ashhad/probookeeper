@@ -92,7 +92,7 @@ const ContactUsForm = () => {
               <span className="mr-3 text-lg">📞</span> {/* Phone Icon */}
               <div>
                 <p className="font-semibold text-gray-300">Office Phone:</p>
-                <a href="tel:+18442823673" className="text-green-500 hover:text-green-400 transition-colors">
+                <a href="tel:+18888710037" className="text-green-500 hover:text-green-400 transition-colors">
                   1-888-871-0037
                 </a>
               </div>

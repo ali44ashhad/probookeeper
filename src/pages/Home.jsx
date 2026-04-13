@@ -10,10 +10,10 @@ import { Link }from 'react-router-dom'
 const Home = () => {
   return (
     <> 
-      <div className="pt-20 sm:pt-24">
+      <div className="pt-6">
       {/* Section 1 - Hero (Alternative Content) */}
       <section className="w-full bg-white">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-20 py-14 sm:py-16 lg:py-20">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-20 py-14 sm:py-6 lg:py-20">
           <div className="flex flex-col-reverse lg:flex-row items-center gap-12 rounded-2xl p-0 lg:p-12">
             {/* Left Image */}
             <div className="lg:w-1/2 w-full flex justify-center lg:justify-start mb-8 lg:mb-0 bg-transparent">
@@ -36,13 +36,13 @@ const Home = () => {
                 Streamline your invoicing, match bank transactions in seconds, and gain clear financial insights to scale with confidence. Get started with our guided setup and discover bookkeeping that truly supports your business growth.
               </p>
 
-              <Link
-                to="/contact-us"
+              <a
+                href="tel:+18888710037"
                 className="inline-flex items-center justify-center gap-3 bg-[#0b6b3b] hover:bg-green-700 transition-all duration-300 text-white font-semibold px-6 py-3 rounded-lg shadow-md hover:shadow-lg"
               >
                 <Phone className="h-5 w-5" />
                 Talk to a specialist: 1-888-871-0037
-              </Link>
+              </a>
             </div>
           </div>
         </div>
@@ -67,9 +67,9 @@ const Home = () => {
             <div className="lg:w-1/2 w-full text-center lg:text-left">
               <h2 className="text-2xl lg:text-3xl font-bold mb-4">Need help with troubleshooting or data recovery?</h2>
               <p className="text-gray-700 mb-6">Our certified experts restore files, resolve sync issues, and keep your books secure—fast and hassle-free.</p>
-              <Link to="/contact-us" className="bg-green-600 hover:bg-green-700 text-white font-semibold px-6 py-3 rounded-lg inline-block transition-colors duration-300">
+              <a href="tel:+18888710037" className="bg-green-600 hover:bg-green-700 text-white font-semibold px-6 py-3 rounded-lg inline-block transition-colors duration-300">
                 📞 Support: 1-888-871-0037
-              </Link>
+              </a>
             </div>
 
             {/* Right Circular Image */}
@@ -101,10 +101,10 @@ const Home = () => {
                 <li>Customized reports and KPI dashboards for better insights</li>
               </ul>
 
-              <Link to="/contact-us" className="inline-flex items-center justify-center bg-green-700 hover:bg-green-600 transition-colors text-white text-lg font-bold py-3 px-6 rounded-full self-center lg:self-start max-w-xs w-full sm:w-auto">
+              <a href="tel:+18888710037" className="inline-flex items-center justify-center bg-green-700 hover:bg-green-600 transition-colors text-white text-lg font-bold py-3 px-6 rounded-full self-center lg:self-start max-w-xs w-full sm:w-auto">
                 <Phone className="mr-3 h-5 w-5" />
                 Call: 1-888-871-0037
-              </Link>
+              </a>
             </div>
           </div>
         </div>

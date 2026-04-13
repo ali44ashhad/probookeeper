@@ -55,7 +55,8 @@ const RefundPolicy = () => {
            For any questions regarding refunds, please contact our support team at:
          </p>
          <p className="text-sm font-medium text-gray-700">
-           support@Probookeepers.com | +1-888-871-0037
+           <a className="hover:underline" href="mailto:support@Probookeepers.com">support@Probookeepers.com</a> |{' '}
+           <a className="hover:underline" href="tel:+18888710037">+1-888-871-0037</a>
          </p>
          <p className="text-xs text-gray-400 italic mt-4">
            *This policy represents standard refund guidelines. In case of signed agreements, contract-specific terms will take precedence.
