@@ -10,6 +10,7 @@ import { Link }from 'react-router-dom'
 const Home = () => {
   return (
     <> 
+      <div className="pt-20 sm:pt-24">
       {/* Section 1 - Hero (Alternative Content) */}
       <section className="w-full bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-20 py-14 sm:py-16 lg:py-20">
@@ -154,6 +155,7 @@ const Home = () => {
 
       <HomeFurtherSection />
 
+      </div>
     </>
   )
 }
