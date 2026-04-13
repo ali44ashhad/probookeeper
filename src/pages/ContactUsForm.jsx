@@ -12,10 +12,10 @@ const ContactUsForm = () => {
   return (
   <>
   <Helmet>
-                <title>Contact | probookeeper</title>
+                <title>Contact | Probookeeper</title>
                 <meta
                     name="description"
-                    content="Contact probookeeper for any questions or inquiries."
+                    content="Contact Probookeeper for any questions or inquiries."
                 />
             </Helmet>
   <Header/>
@@ -75,7 +75,7 @@ const ContactUsForm = () => {
 
           {/* RIGHT SIDE: Contact Information */}
           <div className="text-white lg:pl-12">
-            <h3 className="text-2xl font-bold mb-6">probookeeper</h3>
+            <h3 className="text-2xl font-bold mb-6">Probookeeper</h3>
             
             {/* Head Office */}
             <div className="flex items-start mb-4">
@@ -103,8 +103,8 @@ const ContactUsForm = () => {
               <span className="mr-3 text-lg">📧</span> {/* Email Icon */}
               <div>
                 <p className="font-semibold text-gray-300">Email Address:</p>
-                <a href="mailto:info@probookeeper.com" className="text-green-500 hover:text-green-400 transition-colors">
-                  info@probookeeper.com
+                <a href="mailto:info@Probookeeper.com" className="text-green-500 hover:text-green-400 transition-colors">
+                  info@Probookeeper.com
                 </a>
               </div>
             </div>
