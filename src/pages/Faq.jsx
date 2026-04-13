@@ -16,10 +16,10 @@ const Faq = () => {
   return (
     <>
       <Helmet>
-                <title>Faq | probookeeper</title>
+                <title>Faq | Probookeeper</title>
                 <meta
                     name="description"
-                    content="FAQ about probookeeper services."
+                    content="FAQ about Probookeeper services."
                 />
             </Helmet>
     <Header/>
