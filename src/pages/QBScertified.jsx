@@ -13,10 +13,10 @@ const QBScertified = () => {
   return (
     <>
       <Helmet>
-                    <title>QBS certified | probookeeper</title>
+                    <title>QBS certified | Probookeeper</title>
                     <meta
                         name="description"
-                        content="Certified probookeeper for business software assistance."
+                        content="Certified Probookeeper for business software assistance."
                     />
                 </Helmet>
     <Header/>

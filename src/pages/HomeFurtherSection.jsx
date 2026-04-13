@@ -87,7 +87,7 @@ const HomeFurtherSection = () => {
    <div className="w-80 h-80 sm:w-96 sm:h-96 border-none rounded-full overflow-hidden shadow-2xl border-4">
   <img 
     src={images.quickbooksImage} 
-    alt="probookeeper Team" 
+    alt="Probookeeper Team" 
     className="w-full h-full object-cover" 
   />
 </div>

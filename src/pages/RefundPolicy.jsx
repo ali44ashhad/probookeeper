@@ -55,7 +55,7 @@ const RefundPolicy = () => {
            For any questions regarding refunds, please contact our support team at:
          </p>
          <p className="text-sm font-medium text-gray-700">
-           <a className="hover:underline" href="mailto:support@probookeeper.com">support@probookeeper.com</a> |{' '}
+           <a className="hover:underline" href="mailto:support@Probookeeper.com">support@Probookeeper.com</a> |{' '}
            <a className="hover:underline" href="tel:+18888710037">+1-888-871-0037</a>
          </p>
          <p className="text-xs text-gray-400 italic mt-4">

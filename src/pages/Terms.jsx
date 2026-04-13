@@ -8,7 +8,7 @@ const Terms = () => {
   return (
    <>
      <Helmet>
-                <title>Terms and Conditions | probookeeper</title>
+                <title>Terms and Conditions | Probookeeper</title>
                 <meta
                     name="description"
                     content="Read ISHEP Foundation's Anti-Discrimination Policy detailing equality, inclusion, and fairness."
